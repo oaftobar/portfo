@@ -1,0 +1,7 @@
+prompt-toolkit==1.0.14
+Pygments==2.17.2
+PyInquirer==1.0.3
+regex==2023.12.25
+six==1.16.0
+wcwidth==0.2.13
+wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.3/libexec/wheel-0.43.0-py3-none-any.whl#sha256=80a49545e5e5ef2abeb79ec254447300d41dfb76914fc65efa6da8dd0a766052
